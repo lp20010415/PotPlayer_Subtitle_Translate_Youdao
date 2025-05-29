@@ -6,9 +6,9 @@
 >
 > 3、我只是源码开源者，只为技术交流，拒绝承担任何责任！
 >
-> 4、本文部分内容都是copy前人的基础上改动的(https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu)
+> 4、本文部分内容都是copy前人的基础上改动的(https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu)(包括部分代码也是)
 >
-> 5、特别感谢前人(https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu)！感恩！
+> 5、特别感谢前人！感恩！(https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu)
 
 ---
 
