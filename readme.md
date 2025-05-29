@@ -104,8 +104,8 @@
 
 > 欢迎广大网友们继续扩展优化，欢迎任何有益的合并请求!
 >
-> github发布地址：[https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu](https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu)
+> github发布地址：[https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Youdao](https://github.com/lp20010415/PotPlayer_Subtitle_Translate_Youdao)
 >
-> gitee发布地址：[https://gitee.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu](https://gitee.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu)
+> gitee发布地址：[https://gitee.com/fjqingyou/PotPlayer_Subtitle_Translate_Youdao](https://gitee.com/lp20010415/PotPlayer_Subtitle_Translate_Youdao)
 
 ---
