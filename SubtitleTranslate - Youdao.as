@@ -220,7 +220,7 @@ string Translate(string text, string &in srcLang, string &in dstLang){
         string salt = generateUUID();//随机数
         string curtime = getCurtime();
         string sign = getSha256(appId + getInput(q) + salt + curtime + toKen);//签名 appid+q+salt+密钥
-        string parames = "to=" + dstLang + "&appKey=" + appId + "&sign=" + sign  + "&salt=" + salt + "&q=" + enc + "&curtime=" + curtime + "&signType=v3";
+        string parames = "&from=" + srcLang + "&to=" + dstLang + "&appKey=" + appId + "&sign=" + sign  + "&salt=" + salt + "&q=" + enc + "&curtime=" + curtime + "&signType=v3";
         string url = "https://openapi.youdao.com/api?" + parames;
 
         //线程同步 - 独占锁
