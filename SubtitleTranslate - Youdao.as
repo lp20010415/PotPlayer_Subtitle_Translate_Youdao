@@ -138,9 +138,7 @@ string getCurtime() {
   int second = now.get_second();
 
   int totalSeconds = totalDays * 86400 + hour * 3600 + minute * 60 + second;
-  string output_ = year + "-" + month + "-" + day + "-" + hour + "-" + minute + "-" + second;
 
-  // return year + "-" + month + "-" + day + "-" + hour + "-" + minute + "-" + second;
   return "" + totalSeconds;
 }
 
@@ -265,9 +263,6 @@ string Translate(string text, string &in srcLang, string &in dstLang){
             srcLang = "UTF8";
             dstLang = "UTF8";
         }
-        // string test = "{\"from\": \"en\",\"to\": \"zh\",\"trans_result\": [{\"src\": \"apple\",\"dst\": \"苹果\"}]}";
-        // ret = JsonParse(test);
-        // ret = appId + "\n" + getInput(q) + "\n" + salt + "\n" + curtime + "\n" + toKen + "\n" + sign;
     }
     return ret;
 }
