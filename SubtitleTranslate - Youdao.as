@@ -178,8 +178,6 @@ string JsonParseNew(string json) {
   string ret = "";
   
   if (Reader.parse(json, Root) && Root.isObject()) {
-    // JsonValue data = Root["data"];
-    // if (data.isObject()) {
 
       JsonValue translations = Root["translation"];
 
