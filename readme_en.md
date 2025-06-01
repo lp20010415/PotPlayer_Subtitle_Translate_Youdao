@@ -1,6 +1,6 @@
 <h4 align="left">
-  <b href="readme.md">中文</b> |
-  <a >English</a>
+  <a href="readme.md">中文</a> |
+  <b >English</b>
 </h4>
 
 # Disclaimer  
