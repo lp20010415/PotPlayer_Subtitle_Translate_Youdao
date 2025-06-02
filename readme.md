@@ -40,7 +40,9 @@
 > 4、进入到控制台后左边有个"自然语言翻译服务"，打开有个"文本翻译"，然后点击"创建应用"
 >
 > 5、"应用名称"-->自定义 、"选择服务"-->勾选"自然语言翻译服务"中的"文本翻译"、"接入方式"-->勾选"API"，然后按"确定"完成创建
-![](res/1.mp4)
+
+https://github.com/user-attachments/assets/e6651842-8a13-43a0-9f7e-922ca94bce68
+
 ---
 
 ## 第二步：安装翻译插件
@@ -52,7 +54,9 @@
 > 3、再进入Extention文件夹，接着又进入Subtitle文件夹、最后进入Translate文件夹
 >
 > 4、Ctrl+V，把刚才选择的两个文件粘贴到这个文件夹
-![](res/2.mp4)
+
+https://github.com/user-attachments/assets/2011ae35-e666-4015-9fa1-ce202b49c30a
+
 ---
 
 ## 第三步：获取和配置翻译插件的 appId 与 密钥
@@ -67,7 +71,9 @@
 >
 > 5、将上面第 2 步得到的“应用ID” 和 “应用秘钥”分别填进"App ID"和"密钥"进去，然后点确定，会再次弹出对话框，点击关闭就行了。
 >
-![](res/3.mp4)
+
+https://github.com/user-attachments/assets/5e45766b-43bb-46f2-b97b-bcdf7ecffeb8
+
 ---
 
 ## 第四步：测试
